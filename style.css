@@ -1,0 +1,40 @@
+  
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: white;
+  }
+  .rainbow {
+    height: 200px;
+    overflow: hidden;
+  }
+  .rainbow div {
+    overflow: hidden;
+  }
+  .rainbow > div {
+    width: 400px;
+    height: 400px;
+    background: rgb(250, 66, 66);
+    border-radius: 50%;
+  }
+  .rainbow > div > div {
+    background: hsl(60, 80%, 39%);
+    height: 380px;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  .rainbow > div > div > div {
+   
+  }
+  .rainbow > div > div > div > div {
+
+  }
+  .rainbow > div > div > div > div > div {
+
+  }
+  .rainbow > div > div > div > div > div > div {
+
+  }
