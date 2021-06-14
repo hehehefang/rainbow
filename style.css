@@ -27,14 +27,26 @@
     border-radius: 50%;
   }
   .rainbow > div > div > div {
-   
+    background: hsl(120, 80%, 50%);
+    height: 360px;
+    margin: 10px;
+    border-radius: 50%;
   }
   .rainbow > div > div > div > div {
-
+    background: hsl(180, 80%, 37%);
+    height: 340px;
+     margin: 10px;
+    border-radius: 50%;
   }
   .rainbow > div > div > div > div > div {
-
+    background: hsl(240, 80%, 45%);
+    height: 320px;
+    margin: 10px;
+    border-radius: 50%;
   }
   .rainbow > div > div > div > div > div > div {
-
+    background: hsl(300, 80%, 50%);
+    height: 300px;
+    margin: 10px;
+    border-radius: 50%;
   }
